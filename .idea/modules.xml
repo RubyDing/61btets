@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Labs/Labs.iml" filepath="$PROJECT_DIR$/Labs/Labs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pro0/Pro0.iml" filepath="$PROJECT_DIR$/Pro0/Pro0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project0_2048.iml" filepath="$PROJECT_DIR$/Project0_2048.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../skeleton-sp21-master/skeleton-sp21-master/proj0/proj0.iml" filepath="$PROJECT_DIR$/../skeleton-sp21-master/skeleton-sp21-master/proj0/proj0.iml" />
+    </modules>
+  </component>
+</project>
